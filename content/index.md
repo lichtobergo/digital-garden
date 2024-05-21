@@ -11,6 +11,6 @@ Ich muss auch noch rausfinden welche Methoden sich am besten eignet für das syn
 Test eines Wikilinks zur Test-Seits [[test]]
 ***
 **To-Do-Liste**
-[] Einpflegen / Verlinken externer Bilder
-[] Unterschiedliche Layouts
-[] Inhaltsverzeichnis/TOC
+- [] Einpflegen / Verlinken externer Bilder
+- [] Unterschiedliche Layouts
+- [] Inhaltsverzeichnis/TOC
