@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: " Zeit der Wölfe",
+    pageTitle: "Zeit der Wölfe",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
