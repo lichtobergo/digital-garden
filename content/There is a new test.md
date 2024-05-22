@@ -12,4 +12,4 @@ I wonder if this is how that works?!
 > Dieser ist foldable. Dies könnte ein Lösung für Spoiler sein.
 
 Können wir Bilder einfügen und in die Website einbetten?
-![[images/rewyn.png|images/rewyn.png]]
+![[rewyn.png|400]]
