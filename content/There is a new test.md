@@ -5,3 +5,8 @@ share: true
 
 # Ok, let's go
 I wonder if this is how that works?!
+
+
+> [!NOTE]- Achtung!
+> Hier ist ein Callout! 
+> Dieser ist foldable. Dies könnte ein Lösung für Spoiler sein.
