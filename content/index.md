@@ -15,4 +15,5 @@ Test eines Wikilinks zur Test-Seits [[test|test]]
 Einpflegen / Verlinken externer Bilder
 - [ ] Unterschiedliche Layouts
 - [ ] Inhaltsverzeichnis/TOC
-- [-] Test des LiveSync (soweit scheint LiveSync gut zu funktionieren)
+- [ ] Test des LiveSync (soweit scheint LiveSync gut zu funktionieren)
+- [x] Is this now checked?
